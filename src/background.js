@@ -7,7 +7,7 @@ import installExtension, { VUEJS_DEVTOOLS } from "electron-devtools-installer";
 const isDevelopment = process.env.NODE_ENV !== "production";
 
 if (! isDevelopment) {
-  const server = 'hazzel-2nm0ih0k3-gathrlabs.vercel.app';
+  const server = 'humperdink-releases-inc89ot0r-gathrlabs.vercel.app';
   const url = `${server}/update/${process.platform}/${app.getVersion()}`;
 
   autoUpdater.setFeedURL({ url });
