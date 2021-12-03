@@ -17,7 +17,7 @@
           stroke="text-gray-600"
         ></loading-icon>
         <div class="text-2xl font-medium text-center">Loading Humperdink</div>
-        <div class="text-lg text-center">Please be patient</div>
+        <div class="text-lg text-center">Please be patient - song loading soon.</div>
       </main>
     </div>
   </div>
